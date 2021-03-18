@@ -1,0 +1,5 @@
+C:\Users\Julia3000\Desktop\c#programing\Consulta\Consulta\bin\Debug\Consulta.exe
+C:\Users\Julia3000\Desktop\c#programing\Consulta\Consulta\bin\Debug\Consulta.pdb
+C:\Users\Julia3000\Desktop\c#programing\Consulta\Consulta\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Julia3000\Desktop\c#programing\Consulta\Consulta\obj\x86\Debug\Consulta.exe
+C:\Users\Julia3000\Desktop\c#programing\Consulta\Consulta\obj\x86\Debug\Consulta.pdb
